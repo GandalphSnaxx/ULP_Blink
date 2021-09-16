@@ -1,0 +1,2 @@
+# ESP32 ULP Blink
+This project was made to be an introduction into programming the ESP32's little known 3rd processor, the Ultra Low-power Processor, or ULP for short. Please fiddle around with my code! Because the blinking is done seperate from the two main cores, most other projects should operate as normal!
